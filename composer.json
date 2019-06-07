@@ -11,6 +11,9 @@
       "role": "Developer"
     }
   ],
+  "replace": {
+    "typo3-ter/autologin": "self.version"
+  },
   "require": {
     "typo3/cms-core": ">=7.6.0 < 9.5.99",
     "ext-pdo": "*",
