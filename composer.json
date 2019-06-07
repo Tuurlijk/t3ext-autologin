@@ -1,7 +1,6 @@
 {
   "name": "michielroos/autologin",
   "type": "typo3-cms-extension",
-  "version": "1.0.0",
   "description": "Only for development, unsafe for live environments! Logs in oldest admin account.",
   "license": "GPL-2.0+",
   "authors": [
@@ -11,6 +10,9 @@
       "role": "Developer"
     }
   ],
+  "support": {
+    "issues": "https://github.com/MaxServ/t3ext-autologin/issues"
+  },
   "replace": {
     "typo3-ter/autologin": "self.version"
   },
