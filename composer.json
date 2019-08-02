@@ -17,7 +17,7 @@
     "typo3-ter/autologin": "self.version"
   },
   "require": {
-    "typo3/cms-core": ">=7.6.0 < 9.5.99",
+    "typo3/cms-core": ">=7.6.0 < 10.5.99",
     "ext-pdo": "*",
     "php": ">=5.6.0"
   },
